@@ -1,0 +1,23 @@
+<div class="d-flex btn4 gap-5">
+                    <!--btn1-->
+                    <div>
+                        <button type="button" class="btn d-inline btn-outline-dark btn-lg">Lahore - karachi</button>
+                    </div>
+                    <!--btn2-->
+                    <div class="dropdown">
+                        <button class="btn d-inline btn-lg btn-outline-dark dropdown-toggle" type="button" id="dropdownMenuButton"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Return
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        </div>
+                    </div>
+                    <!--btn3-->
+                    <div>
+                        <button type="button" class="btn d-inline btn-outline-dark btn-lg">Lahore - karachi</button>
+                    </div>
+                    <!--btn4-->
+                    <div>
+                        <button type="button" class="btn d-inline btn-outline-dark btn-lg">Lahore - karachi</button>
+                    </div>
+                </div>

@@ -1,0 +1,415 @@
+body {
+    max-width: 1440px;
+    max-width: 3528px;
+    left: 100px;
+    top: 100px;
+    background: #FAFBFC;
+    overflow-x: hidden;
+}
+
+.head_div {
+
+    max-width: 1380px;
+    height: 599px;
+    left: 30px;
+    top: 30px;
+    background: url(/images/Rectangle\ 31.png), #D9D9D9;
+    border-radius: 24px;
+}
+
+.head_div_div {
+    border: transparent;
+    max-width: 1380px;
+    height: 581px;
+    left: 1410px;
+    top: 611px;
+    border-radius: 0px 0px 24px 24px;
+    transform: rotate(180deg);
+}
+
+.vector {
+    width: 1.5rem;
+    max-height: 1.4rem;
+}
+
+.line {
+    line-height: 1.5rem;
+}
+
+.cn {
+    width: 377px;
+    height: 57px;
+
+    font-family: 'TradeGothic LT Extended';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 57px;
+    /* identical to box height */
+
+    text-align: center;
+}
+
+.div-h3 {
+    padding-top: 3rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+    .hero-main {
+        height: 101px;
+
+        font-family: 'TradeGothic LT Extended';
+        font-style: normal;
+        font-weight: 50;
+        font-size: 50px;
+        line-height: 101px;
+
+        text-align: center;
+        text-transform: uppercase;
+
+        color: #FFFFFF
+    }
+
+    .div_p {
+        font-family: 'TradeGothic LT Extended';
+        font-style: normal;
+        font-weight: 50;
+        font-size: 80px;
+    }
+
+}
+
+.sec-box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px;
+    gap: 16px;
+    width: 389.33px;
+    height: 122px;
+    box-shadow: 0px 4px 16px rgba(17, 34, 17, 0.05);
+    border-radius: 16px;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+
+}
+
+.sec_hero {
+    margin-top: 20rem;
+}
+
+.aside-div {
+    max-width: 500px;
+    max-height: 500px;
+    margin-bottom: 40px;
+    text-align: center;
+    background: url(/images/Rectangle\ 40.svg);
+    border-radius: 20px;
+}
+
+.aside-div .aside-div1 {
+    max-width: 550px;
+    height: 500px;
+    left: 604px;
+    padding-top: 19rem;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(18, 18, 18, 0.75) 48.67%);
+    border-radius: 0px 0px 24px 24px;
+}
+
+.aside-div .aside-div1 .btn1 {
+    background-color: mediumaquamarine;
+    box-sizing: border-box;
+    left: 6.25%;
+    right: 6.25%;
+    top: 6.25%;
+    bottom: 6.25%;
+}
+
+.aside-div3 {
+    max-width: 500px;
+    height: 500px;
+    margin-bottom: 40px;
+    text-align: center;
+    background: url(/images/Rectangle\ 41.svg);
+    border-radius: 20px;
+}
+
+.aside-div3 .aside-div4 {
+    max-width: 550px;
+    height: 500px;
+    padding-top: 19rem;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(18, 18, 18, 0.75) 48.67%);
+    border-radius: 0px 0px 24px 24px;
+}
+
+.aside-div3 .aside-div4 .btn1 {
+    background-color: mediumaquamarine;
+    box-sizing: border-box;
+    left: 6.25%;
+    right: 6.25%;
+    top: 6.25%;
+    bottom: 6.25%;
+}
+
+.asigap {
+    gap: 24px;
+    justify-content: space-between;
+    margin-top: 5rem;
+}
+
+.div-card {
+    display: flex;
+    flex-direction: column;
+    align-items: space;
+    justify-content: center;
+    padding: 24px;
+    gap: 40px;
+    max-width: 425px;
+    max-height: 800px;
+    left: -1px;
+    top: 0px;
+    box-shadow: 2px 4px 16px rgba(17, 34, 17, 0.1);
+    border-radius: 20px;
+}
+
+.div-card .text-right {
+    align-self: flex-end;
+}
+
+.div-card .star {
+    align-self: stretch;
+    left: 3.13%;
+    right: 3.12%;
+    top: 6.25%;
+    bottom: 6.24%;
+}
+
+.div-card .olga {
+    font-family: "TradeGothic LT Extended";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    align-self: stretch;
+    flex-grow: 0;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.div-card .google {
+    font-family: "TradeGothic LT Extended";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    flex-grow: 1;
+}
+
+.div-card .main-images {
+    max-width: 300px;
+    max-height: 200px;
+    background: url(images/Rectangle\ 36.svg);
+    border-radius: 8px;
+    color: white;
+}
+
+.div-card .shadow {
+    max-width: 425px;
+    max-height: 586px;
+    left: 25px;
+    top: 22px;
+    background: rgba(141, 211, 187, 0.4);
+    border-radius: 20px;
+}
+
+.cardgap {
+    gap: 1rem;
+}
+
+.head-div2 {
+    display: flex;
+    flex-direction: column;
+    padding: 14px 32px 32px;
+    gap: 32px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 16px rgba(141, 211, 187, 0.15);
+    border-radius: 16px;
+}
+
+.btn4 {
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-box {
+    max-Width: 1180px;
+    min-Height: 274px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 0px 50px 50px 50px;
+    margin-top: -3rem;
+}
+
+.living {
+    max-width: 381.59px;
+    min-height: 154px;
+    background: #FFFFFF;
+    border: 2px solid rgba(172, 172, 172, 0.5);
+    border-radius: 25px;
+
+    &-box {
+        max-width: 381.59px;
+        min-height: 154px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+}
+
+.boderline {
+    width: 40px;
+    height: 40px;
+    border: 1px dashed rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+}
+
+.leaving {
+    max-width: 477.26px;
+    height: 154px;
+    background: #FFFFFF;
+    border: 2px solid rgba(172, 172, 172, 0.5);
+    border-radius: 25px;
+
+    &-box {
+        max-width: 477.26px;
+        height: 154px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+}
+
+.search {
+    max-width: 154px;
+    height: 154px;
+    background: rgba(62, 134, 245, 0.8);
+    border-radius: 65px;
+    position: relative;
+
+    &-position {
+        position: absolute;
+        top: 44px;
+        left: 40px;
+    }
+}
+
+.lahor {
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    width: 319.67px;
+    height: 56px;
+
+    background: #FFFFFF;
+    border: 1px solid #79747E;
+    border-radius: 4px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+.btn4 {
+    text-align: center;
+}
+
+.btn1 {
+    background-color: mediumaquamarine;
+    box-sizing: border-box;
+    left: 6.25%;
+    right: 6.25%;
+    top: 6.25%;
+    bottom: 6.25%;
+}
+
+@media screen and (max-width:1000) {
+    .div-card {
+        width: 40%;
+    }
+}
+
+@media screen and (max-width:1000) {
+    .div-card {
+        width: 40%;
+    }
+
+    .container {
+        width: 100%;
+
+
+    }
+}
+
+.foot {
+    display: flex;
+    align-items: center;
+    padding: 32px 104px 64px;
+    gap: 64px;
+    max-width: 1440px;
+    height: 422px;
+    margin-top: 10rem;
+    margin-bottom: 2rem;
+
+    /* Mint Green */
+
+    background: #8DD3BB;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+    .foot-div {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+        padding: 0px 24px;
+        max-width: 1000px;
+        height: 200px;
+        background: #CDEAE1;
+        box-shadow: 0px 4px 16px rgba(17, 34, 17, 0.05);
+        border-radius: 20px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin-top: -21rem;
+
+        .sub {
+            max-width: 1500px;
+            height: 108px;
+            font-family: 'TradeGothic LT Extended';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 44px;
+            padding-top: -4rem;
+        }
+    }
+}
+
+/*# sourceMappingURL=first.css.map */
