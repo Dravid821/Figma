@@ -21,3 +21,83 @@
                         <button type="button" class="btn d-inline btn-outline-dark btn-lg">Lahore - karachi</button>
                     </div>
                 </div>
+
+
+
+                        <!--btn1-->
+                        <div class="">
+                            <div class="">
+                                <button type="button" class=" btn btn-outline-dark btn-lg">Lahore - karachi</button>
+                            </div>
+                            <!--btn2-->
+                            <div class="col-sm-3 dropdown">
+                                <button class="btn btn-lg btn-outline-dark dropdown-toggle" type="button"
+                                    id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true"
+                                    aria-expanded="false">
+                                    Return
+                                </button>
+                                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                </div>
+                            </div class="col-sm-3 col-md-">
+                        </div>
+                        <!--btn3-->
+                        <div>
+                            <button type="button" class="btn btn-outline-dark btn-lg">07 Nov 22 - 13 Nov 22 </button>
+                        </div>
+                        <!--btn4-->
+                        <div class="col-sm-3 col-md-">
+                            <button type="button" class="btn btn-outline-dark btn-lg">1 passenger,Economy</button>
+                        </div>
+
+
+
+
+                        footer
+
+                        <div class="">
+                    <img src="/images/g.svg" alt="">
+                    <img src="/images/0.svg" alt="">
+                    <img src="/images/l.svg" alt="">
+                    <img src="/images/o.svg" alt="">
+                    <img src="/images/b.svg" alt="">
+                    <img src="/images/e.svg" alt="">
+                </div>
+                <div class="pt-2">
+                    <img src="/images/facebook.svg" alt="">
+                    <img src="/images/twitter.svg" alt="">
+                    <img src="/images/Youtube.svg" alt="">
+                    <img src="/images/crome.svg" alt="">
+
+                </div>
+
+
+
+
+
+
+
+                header
+
+                <div class="d-flex gap-3 justify-content-around align-content-between pt-3  px-5">
+                <div class="d-flex gap-2">
+                    <!--vector-->
+                    <div class=" d-flex gap-2">
+                        <img class="vector " src="/images/Vector.svg" alt="">
+                        <p class="text-white m-0">Find Flight</p>
+                    </div>
+                    <div class="d-flex gap-2">
+                        <img class="vector " src="/images/Vector (1).svg" alt="">
+                        <p class="text-white m-0">Find Stays</p>
+                    </di >
+                </div>
+                <div class="col-sm-3 pt-1">
+                    <img src="images/Logo.svg" alt="">
+                </div>
+                <div class="col-sm-3">
+                    <!--Login and Sign Up-->
+                    <div class="d-flex gap-3 pt-1">
+                        <h6 class="text-white mb-0 d-flex align-items-center">login</h6>
+                        <button type="button" class="btn btn-light">Sign up</button>
+                    </div>
+                </div>
+            </div>
